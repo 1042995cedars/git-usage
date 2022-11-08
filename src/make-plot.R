@@ -29,4 +29,4 @@ sink()
 
 sink(file = "out/package-versions.txt")
 sessionInfo()
-sink(
+sink()
